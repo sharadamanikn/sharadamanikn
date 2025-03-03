@@ -1,31 +1,30 @@
-# Hello World, I'm Sharadamani K N 👋🏽
+# thanmayijr
+<!--
+**thanmayi0610/thanmayijr ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+# `Hello World, I'm Thanmayi J R 👋🏽`
 
-# A self-taught Full-Stack Developer!
+I am  `Full-Stack Developer`. 
+* I develop web applications in  `React js`, `Next js` .
+* I develop backend applications  in `Next.js` .
+* I develop AI applications in `Mistral models` and `Weaviate Vector database`.
 
-    I develop web applications in node.js and React.js
-    I develop mobile applications in Next.js and Svelte.
-    I develop backend applications in Node.js and Sprint Boot.
+### Experience
 
-###Experience
-
-    -Mobile
-        Flutter (Dart) • `⭐️⭐️` `⭐️⭐️⭐️⭐️⭐️`
-        SwiftUI (Swift) • `⭐️⭐️` `⭐️⭐️⭐️⭐️⭐️`
-        React Native (JS/TS) • ⭐️` `⭐️⭐️⭐️⭐️⭐️`
-        Compose (Kotlin) • ⭐️` `⭐️⭐️⭐️⭐️⭐️`
-    -Web
-        Next.js (JS/TS) • `⭐️⭐️` `⭐️⭐️⭐️⭐️⭐️`
-        Svelte (JS/TS) • ⭐️` `⭐️⭐️⭐️⭐️⭐️`
-
-    -Back End
-        Node.js (JS/TS) • `⭐️` `⭐️⭐️⭐️⭐️⭐️`
-
-    -AI
-       Mistral 
-       Weaviate (Vector Database)  • `⭐️⭐️` `⭐️⭐️⭐️⭐️⭐️`
-
-
-  ###Projects
+- Web
+  
+ 
+  -  `Next.js (JS/TS)` • `⭐``⭐️⭐️⭐️⭐️⭐️`
+  -   `React.js (JS/TS)` • `⭐``⭐️⭐️⭐️⭐️⭐️`
     
-    -'Second Brain'
 
+- Back End
+  - `Next.js (JS/TS)` • `⭐``⭐️⭐️⭐️⭐️⭐️`
+  
+ 
+- AI
+  - `Mistral` • `⭐``⭐️⭐️⭐️⭐️⭐️`
+  - `Weaviate(Vector database)` • `⭐``⭐️⭐️⭐️⭐️⭐️`
+
+### Projects
+- `Second Brain`
