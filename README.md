@@ -1,6 +1,6 @@
-###Hello World, I'm Sharadamani K N 👋🏽
+# Hello World, I'm Sharadamani K N 👋🏽
 
-###A self-taught Full-Stack Developer!
+# A self-taught Full-Stack Developer!
 
     I develop web applications in node.js and React.js
     I develop mobile applications in Next.js and Svelte.
