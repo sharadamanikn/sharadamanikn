@@ -1,16 +1,31 @@
-## Hi there 👋
+###Hello World, I'm Sharadamani K N 👋🏽
 
-<!--
-**sharadamanikn/sharadamanikn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###A self-taught Full-Stack Developer!
 
-Here are some ideas to get you started:
+    I develop web applications in node.js and React.js
+    I develop mobile applications in Next.js and Svelte.
+    I develop backend applications in Node.js and Sprint Boot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Experience
+
+    -Mobile
+        Flutter (Dart) • `⭐️⭐️` `⭐️⭐️⭐️⭐️⭐️`
+        SwiftUI (Swift) • `⭐️⭐️` `⭐️⭐️⭐️⭐️⭐️`
+        React Native (JS/TS) • ⭐️` `⭐️⭐️⭐️⭐️⭐️`
+        Compose (Kotlin) • ⭐️` `⭐️⭐️⭐️⭐️⭐️`
+    -Web
+        Next.js (JS/TS) • `⭐️⭐️` `⭐️⭐️⭐️⭐️⭐️`
+        Svelte (JS/TS) • ⭐️` `⭐️⭐️⭐️⭐️⭐️`
+
+    -Back End
+        Node.js (JS/TS) • `⭐️` `⭐️⭐️⭐️⭐️⭐️`
+
+    -AI
+       Mistral 
+       Weaviate (Vector Database)  • `⭐️⭐️` `⭐️⭐️⭐️⭐️⭐️`
+
+
+  ###Projects
+    
+    -'Second Brain'
+
