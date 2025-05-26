@@ -14,17 +14,17 @@ I am  `Full-Stack Developer`.
 - Web
   
  
-  -  `Next.js (JS/TS)` • `⭐``⭐️⭐️⭐️⭐️⭐️`
-  -   `React.js (JS/TS)` • `⭐``⭐️⭐️⭐️⭐️⭐️`
+  -  `Next.js (JS/TS)` • `⭐⭐️`
+  -   `React.js (JS/TS)` • `⭐️`
     
 
 - Back End
-  - `Next.js (JS/TS)` • `⭐``⭐️⭐️⭐️⭐️⭐️`
+  - `Next.js (JS/TS)` • `⭐⭐️`
   
  
 - AI
-  - `Mistral` • `⭐``⭐️⭐️⭐️⭐️⭐️`
-  - `Weaviate(Vector database)` • `⭐``⭐️⭐️⭐️⭐️⭐️`
+  - `Mistral` • `⭐`
+  - `Weaviate(Vector database)` • `⭐`
 
 ### Projects
 - `Second Brain`
