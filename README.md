@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharadamani K N</h1>
 <h3 align="center">A passionate Computer Science Masters student from India 🇮🇳</h3>
 
-
-- 📄 Check out my resume here - [My Resume](https://YOUR_RESUME_LINK)
-
 - 💻 All of my projects are available on [GitHub](https://github.com/sharadamanikn?tab=repositories)
 
 <h3 align="left">GitHub Stats:</h3>
