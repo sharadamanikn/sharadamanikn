@@ -3,8 +3,6 @@
 
 - 💻 All of my projects are available on [GitHub](https://github.com/sharadamanikn?tab=repositories)
 
-<h3 align="left">GitHub Stats:</h3>
-
 
 <h3 align="left">Languages and Tools:</h3>
 
