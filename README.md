@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharadamani K N</h1>
-<h3 align="center">A passionate Computer Science Masters student from India 🇮🇳</h3>
+<h3 align="center">Computer Science Master’s student | Aspiring Software Engineer 🇮🇳</h3>
 
 - 🎓 Pursuing M.Tech in Computer Science at RV College of Engineering
 - 💻 All of my projects are available on [GitHub](https://github.com/sharadamanikn?tab=repositories)
