@@ -2,6 +2,10 @@
 <h3 align="center">A passionate Computer Science Masters student from India 🇮🇳</h3>
 
 - 💻 All of my projects are available on [GitHub](https://github.com/sharadamanikn?tab=repositories)
+- 🌱 I’m currently learning MACHINE LEARNING, SYSTEM DESIGN and CLOUD
+- 🎓 Pursuing M.Tech in Computer Science at RVCE
+- 📫 Reach me at sharadamanikn2002@gmail.com@gmail.com or on [LinkedIn](
+www.linkedin.com/in/sharadamani-k-n-44663124b)
 
 
 <h3 align="left">Languages and Tools:</h3>
