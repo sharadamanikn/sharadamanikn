@@ -4,7 +4,7 @@
 - I love to code.
 - 🎓 Pursuing M.Tech in Computer Science at RV College of Engineering
 - 💻 All of my projects are available on [GitHub](https://github.com/sharadamanikn?tab=repositories)
-- 🌱 I’m currently learning Cloud
+- 🌱 I’m currently learning Cloud and ML
 - 📫 Reach me at sharadamanikn2002@gmail.com or on [LinkedIn](
 www.linkedin.com/in/sharadamani-k-n-44663124b)
 
