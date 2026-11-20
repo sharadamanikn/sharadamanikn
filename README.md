@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sharadamani K N</h1>
 <h3 align="center">Computer Science Master’s student | Aspiring Software Engineer 🇮🇳</h3>
 
-- 🎓 Pursuing M.Tech in Computer Science at RV College of Engineering
-- 💻 All of my projects are available on [GitHub](https://github.com/sharadamanikn?tab=repositories)
-- 🌱 I'm currently working on a GPT tokenizer and learning how language models turn text into tokens
-- 📫 Reach me at sharadamanikn2002@gmail.com or on [LinkedIn](
+-  Pursuing M.Tech in Computer Science at RV College of Engineering
+-  All of my projects are available on [GitHub](https://github.com/sharadamanikn?tab=repositories)
+-  I'm currently working on a GPT tokenizer and learning how language models turn text into tokens
+-  Reach me at sharadamanikn2002@gmail.com or on [LinkedIn](
 www.linkedin.com/in/sharadamani-k-n-44663124b)
 
 
